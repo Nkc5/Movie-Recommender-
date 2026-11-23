@@ -1,0 +1,9 @@
+
+
+
+activate virtual env :
+.venv\Scripts\Activate
+
+
+run :
+python -m streamlit run app.py
